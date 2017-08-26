@@ -1,6 +1,6 @@
 {
-  "name": "coininfo",
-  "version": "1.0.0",
+  "name": "@monaco-ex/coininfo",
+  "version": "1.0.1-monacoex-1",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
   "keywords": [
